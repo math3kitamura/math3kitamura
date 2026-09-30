@@ -6,7 +6,7 @@
 
 I'm a Software Engineering student interested in **software development, backend, data, and artificial intelligence**. I enjoy turning ideas into functional solutions and continuously improving my technical skills by building projects and learning new technologies.
 
-## 🌐 Where to Find Me
+## Where to Find Me
 
 <p align="left">
 
@@ -32,7 +32,7 @@ I'm a Software Engineering student interested in **software development, backend
 
 </p>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -166,7 +166,7 @@ I'm a Software Engineering student interested in **software development, backend
 
 <br clear="left">
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="left">
 
@@ -181,8 +181,4 @@ I'm a Software Engineering student interested in **software development, backend
 />
 
 </p>
-
-## 🚀 Philosophy
-
-> *"Measuring programming progress by lines of code is like measuring aircraft building progress by weight.*
 

@@ -1,16 +1,188 @@
-## Hi there 👋
+# Matheus Kitamura Gurther
 
-<!--
-**math3kitamura/math3kitamura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineering Student at FIAP**
 
-Here are some ideas to get you started:
+**Software Development | Backend | Data**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Software Engineering student interested in **software development, backend, data, and artificial intelligence**. I enjoy turning ideas into functional solutions and continuously improving my technical skills by building projects and learning new technologies.
+
+## 🌐 Where to Find Me
+
+<p align="left">
+
+  <a href="https://github.com/math3kitamura">
+    <img
+      src="https://img.shields.io/badge/GitHub-MATH3KITAMURA-181717?style=for-the-badge&logo=github"
+      alt="GitHub"
+    />
+  </a>
+
+  <a href="https://instagram.com/mathektr">
+    <img
+      src="https://img.shields.io/badge/Instagram-@MATHEKTR-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Instagram"
+    />
+  </a>
+  <a href="www.linkedin.com/in/matheuskitamuragurther">
+    <img
+      src="	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="Linkedin"
+    />
+  </a>
+
+</p>
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<div>
+
+<img
+ align="left"
+ alt="JavaScript"
+ title="JavaScript"
+ width="30px"
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
+
+<img
+ align="left"
+ alt="React"
+ title="React"
+ width="30px"
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+/>
+
+<img
+ align="left"
+ alt="Tailwind CSS"
+ title="Tailwind CSS"
+ width="30px"
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+/>
+
+</div>
+
+<br clear="left">
+
+### Backend
+
+<div>
+
+<img
+ align="left"
+ alt="Python"
+ title="Python"
+ width="30px"
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+
+<img
+ align="left"
+ alt="C#"
+ title="C#"
+ width="30px"
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
+/>
+
+<img
+ align="left"
+ alt="Java"
+ title="Java"
+ width="30px"
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+/>
+
+<img
+ align="left"
+ alt="PostgreSQL"
+ title="PostgreSQL"
+ width="30px"
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+/>
+
+</div>
+
+<br clear="left">
+
+### DevOps & Tools
+
+<div>
+
+<img
+ align="left"
+ alt="Postman"
+ title="Postman"
+ width="30px"
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
+/>
+
+<img
+ align="left"
+ alt="Vercel"
+ title="Vercel"
+ width="30px"
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
+/>
+
+<img
+ align="left"
+ alt="Amazon Web Services"
+ title="Amazon Web Services"
+ width="30px"
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
+/>
+
+<img
+ align="left"
+ alt="Git"
+ title="Git"
+ width="30px"
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+
+<img
+ align="left"
+ alt="Figma"
+ title="Figma"
+ width="30px"
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
+/>
+
+</div>
+
+<br clear="left">
+
+## 📊 GitHub Stats
+
+<p align="left">
+
+<img
+ height="170"
+ src="https://github-readme-stats.vercel.app/api?username=math3kitamura&show_icons=true&theme=tokyonight&count_private=true"
+/>
+
+<img
+ height="170"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=math3kitamura&layout=compact&theme=tokyonight"
+/>
+
+</p>
+
+## 🚀 Philosophy
+
+> *"Measuring programming progress by lines of code is like measuring aircraft building progress by weight.*
+

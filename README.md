@@ -12,7 +12,7 @@ I'm a Software Engineering student interested in **software development, backend
 
   <a href="https://github.com/math3kitamura">
     <img
-      src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub"
     />
   </a>
@@ -23,10 +23,11 @@ I'm a Software Engineering student interested in **software development, backend
       alt="Instagram"
     />
   </a>
-  <a href="www.linkedin.com/in/matheuskitamuragurther">
+
+  <a href="https://www.linkedin.com/in/matheuskitamuragurther/">
     <img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="Linkedin"
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
     />
   </a>
 
